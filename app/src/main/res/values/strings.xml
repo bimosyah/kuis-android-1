@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kuis1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="home">Home</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="wahana">Wahana</string>
+</resources>
